@@ -1,0 +1,10 @@
+git init
+git status
+git add . 
+get status
+git commit -m "upload first resume"
+git remote add origin https//github.com/your_name/your_repo.git
+git branch
+git branch -M main
+git push -u origin main 
+git pull origin main
